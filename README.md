@@ -1,20 +1,20 @@
 # Generative_art
 
 ## Proposal
-[https://github.com/SDAIA-T5-Projects/Generative_art/blob/main/Proposal/Proposal.pdf](Proposal)
+[Proposal link](https://github.com/SDAIA-T5-Projects/Generative_art/blob/main/Proposal/Proposal.pdf)
 
 
 ## Results
-![https://raw.githubusercontent.com/SDAIA-T5-Projects/Generative_art/main/photos/generated-images-0501.png](photo)
+![Photo](https://raw.githubusercontent.com/SDAIA-T5-Projects/Generative_art/main/photos/generated-images-0501.png)
 
 
 ## Presentation
-[https://github.com/SDAIA-T5-Projects/Generative_art/blob/main/Presentation/Generative_art.pdf](Presentation)
+[Presentaion](https://github.com/SDAIA-T5-Projects/Generative_art/blob/main/Presentation/Generative_art.pdf)
 
 
 ## Video
-Interactive video of monet paintings with VQGAN Zoom: [https://drive.google.com/file/d/1tsLlFXjp-Qfw9z4N6ow1ZitIw_hD2Bk7/view](Link)
+Interactive video of monet paintings with VQGAN Zoom: [Link](https://drive.google.com/file/d/1tsLlFXjp-Qfw9z4N6ow1ZitIw_hD2Bk7/view)
 
 
 ## VR Galley Experince
-Can be found here: [https://github.com/SDAIA-T5-Projects/Generative_art/blob/main/Proposal/Proposal.pdf](Link)
+Can be found here: [Link](Link)
