@@ -16,5 +16,6 @@
 Interactive video of monet paintings with VQGAN Zoom: [Link](https://drive.google.com/file/d/1tsLlFXjp-Qfw9z4N6ow1ZitIw_hD2Bk7/view)
 
 
+
 ## VR Galley Experince
 Can be found here: [Link](https://drive.google.com/file/d/1rXzQ9fmQzCOijoLqMRj0nraKvHvA2lSh/view?usp=sharing)
